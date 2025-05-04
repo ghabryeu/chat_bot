@@ -1,0 +1,215 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Oi", "Olá", "E aí", "Salve", "Fala FURIA", "Tem alguém aí?", "Mano",
+        "E aí, beleza?", "Fala aí, tudo certo?", "Alguém online?", "Boa tarde", "Bom dia", "Boa noite",
+        "Fala, Gabriel", "Cheguei!", "Opa", "Hey", "Yo", "Tudo bem?"
+      ],
+      "responses": [
+        "Fala, fã da FURIA! Em que posso ajudar?",
+        "Oi! Tá preparado pra saber tudo sobre o time de CS?",
+        "Salve! Manda a braba, o que você quer saber?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Valeu", "Tchau", "Falou", "Até mais", "Fui",
+        "Até a próxima", "Vou nessa", "Tamo junto, até depois", "Falou, bot",
+        "Tchauzinho", "Já volto", "Volto depois", "Até mais tarde", "Partiu"
+      ],
+      "responses": [
+        "Falou! Volta sempre que quiser saber mais da FURIA!",
+        "Até a próxima, Pantera! 🐾",
+        "Valeu por colar aqui! Go FURIA!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Obrigado", "Obrigada", "Valeu pela ajuda", "Muito obrigado", "Brigadão",
+        "Tamo junto!", "Agradecido", "Valeuzão", "Obrigado, bot",
+        "Obrigadão pela info", "Show, valeu", "É isso, valeu"
+      ],
+      "responses": [
+        "Tamo junto! Qualquer coisa, só chamar!",
+        "Disponha, Pantera!",
+        "Sempre bom trocar ideia com quem curte a FURIA!"
+      ]
+    },
+    {
+      "tag": "history",
+      "patterns": [
+        "Quando a FURIA foi criada?", "Qual a história da FURIA?", "Como a FURIA começou?", "Quem fundou a FURIA?",
+        "Me conta como surgiu a FURIA", "Qual a origem do time?", "Desde quando a FURIA existe?",
+        "Quero saber mais sobre o começo da FURIA", "A FURIA é de que ano?", "Como nasceu a FURIA?"
+      ],
+      "responses": [
+        "A FURIA foi fundada em 2017 por Jaime Pádua e André Akkari, com a missão de transformar o cenário de esports no Brasil!",
+        "Criada em 2017, a FURIA se destacou pela postura agressiva e foco no desenvolvimento de talentos brasileiros.",
+        "A FURIA nasceu em 2017 com o objetivo de ser uma das maiores organizações de esports do mundo — e está no caminho certo!"
+      ]
+    },
+    {
+      "tag": "rivalries",
+      "patterns": [
+        "Quem é o maior rival da FURIA?", "Qual a rivalidade mais famosa da FURIA?", "Tem alguma treta com outro time?",
+        "A FURIA tem rival no CS?", "Contra quem rola mais treta?", "Quem é o maior inimigo da FURIA?",
+        "Tem algum clássico da FURIA?", "A FURIA tem alguma rivalidade famosa?"
+      ],
+      "responses": [
+        "A rivalidade com a MIBR foi uma das mais marcantes no CS brasileiro!",
+        "FURIA e MIBR protagonizaram clássicos históricos no cenário nacional.",
+        "No cenário internacional, qualquer confronto com times como NAVI ou Vitality sempre pega fogo!"
+      ]
+    },
+    {
+      "tag": "curiosities",
+      "patterns": [
+        "Me conta uma curiosidade sobre o time de CS da FURIA",
+        "Fala uma curiosidade legal do CS",
+        "Algo interessante sobre o time de CS?",
+        "Tem alguma info curiosa do CS?",
+        "Conta uma coisa legal da FURIA no CS",
+        "Quero saber uma curiosidade do time de CS",
+        "Fala algo que pouca gente sabe do time",
+        "O que é diferente na FURIA do CS?",
+        "Alguma curiosidade massa do CS aí?"
+      ],
+      "responses": [
+        "O estilo de jogo da FURIA no CS é conhecido por ser extremamente agressivo — muitas vezes pegando os adversários de surpresa.",
+        "Em 2020, a FURIA chegou ao TOP 3 do ranking mundial da HLTV — um feito inédito pra um time brasileiro desde os tempos de ouro da SK.",
+        "yuurih e KSCERATO jogam juntos desde antes da FURIA e são considerados uma das duplas mais sólidas do cenário.",
+        "FalleN entrou pra FURIA trazendo sua liderança lendária e ajudando a guiar a nova geração do time.",
+        "A FURIA foi um dos primeiros times brasileiros a mudar sua base para os EUA, facilitando a participação em torneios internacionais."
+      ]
+    },
+    {
+      "tag": "store",
+      "patterns": [
+        "Onde posso comprar produtos da FURIA?", "Tem loja da FURIA?", "Quero comprar camisa da FURIA", "Vocês vendem merch?",
+        "Onde vende camisa da FURIA?", "Tem loja oficial?", "Quero o manto da FURIA",
+        "Como compro roupa da FURIA?", "Tem loja online?", "Onde acho os produtos oficiais?"
+      ],
+      "responses": [
+        "Claro! Você encontra os produtos oficiais da FURIA na loja online: https://furia.gg",
+        "Corre lá em https://furia.gg pra garantir seu manto da FURIA!",
+        "Sim! Temos loja online com camisetas, bonés e muito mais — tudo com o estilo da Pantera!"
+      ]
+    },
+    {
+      "tag": "cs_titles",
+      "patterns": [
+        "A FURIA já ganhou algum título no CS?", "Quais campeonatos a FURIA já venceu?", "A FURIA tem títulos importantes no CS?",
+        "A FURIA já foi campeã?", "Quais troféus a FURIA tem?", "Eles já ganharam algum torneio?",
+        "A FURIA tem vitórias grandes?", "Quantos campeonatos a FURIA ganhou?"
+      ],
+      "responses": [
+        "Sim! A FURIA já conquistou títulos como a Elisa Invitational, DreamHack Open e ESL Pro League América do Norte.",
+        "A FURIA já venceu torneios como DreamHack Open, ESL Pro League América do Norte e mais!",
+        "A equipe já levantou algumas taças importantes e sempre marca presença nos grandes torneios."
+      ]
+    },
+    {
+      "tag": "next_matches",
+      "patterns": [
+        "Quando é o próximo jogo da FURIA?", "A FURIA vai jogar quando?", "Qual o próximo campeonato da FURIA?",
+        "Quando eles jogam de novo?", "Tem jogo da FURIA hoje?", "Qual o próximo confronto?", "Hoje tem jogo?",
+        "Onde vejo o próximo jogo da FURIA?", "Próxima partida da FURIA", "Qual a próxima estreia da FURIA?", 
+        "Onde posso ver os jogos?", "Quero saber onde tem jogo?"
+      ],
+      "responses": [
+        "Fica ligado no site oficial da FURIA ou nos canais de esports — os horários dos jogos mudam conforme o torneio!",
+        "Eles sempre anunciam os próximos jogos nas redes sociais. Não perde tempo e segue a @furia!",
+        "Confere a agenda atualizada no furia.gg ou nas plataformas de torneios como HLTV e Liquipedia."
+      ]
+    },
+    {
+      "tag": "fallen",
+      "patterns": [
+        "O FalleN ainda está na FURIA?", "FalleN está jogando na FURIA?", "FalleN é o capitão da FURIA?", "FalleN faz parte do time?",
+        "Ele ainda joga na FURIA?", "FalleN saiu do time?", "FalleN continua no elenco?", "FalleN é da FURIA?",
+        "FalleN tá no time ainda?", "Ele tá jogando com a FURIA?"
+      ],
+      "responses": [
+        "Sim! O FalleN é o capitão e AWPer da FURIA no CS2.",
+        "Ele está sim! FalleN comanda o time dentro do servidor.",
+        "Claro! FalleN continua sendo peça chave no time de CS2 da FURIA."
+      ]
+    },
+    {
+      "tag": "yuurih",
+      "patterns": [
+        "O yuurih ainda está na FURIA?", "yuurih renovou com a FURIA?", "Ele faz parte do time?", "yuurih é titular?",
+        "yuurih continua jogando pela FURIA?", "Ele ainda é do time?", "yuurih saiu?", "yuurih tá na escalação?",
+        "yuurih segue na FURIA?", "O yuurih é player da FURIA ainda?"
+      ],
+      "responses": [
+        "Sim! yuurih é um dos pilares da FURIA e renovou até 2027.",
+        "Ele continua firme no time! Um dos jogadores mais consistentes da FURIA.",
+        "Com certeza! yuurih segue representando a FURIA no mais alto nível."
+      ]
+    },
+    {
+      "tag": "kscerato",
+      "patterns": [
+        "O KSCERATO ainda está na FURIA?", "KSCERATO renovou com a FURIA?", "Ele faz parte do time?", "KSCERATO é titular?",
+        "KSCERATO ainda joga pela FURIA?", "Ele continua na FURIA?", "KSCERATO tá no time?", "O KSCERATO saiu?",
+        "KSCERATO segue jogando com a FURIA?", "KSCERATO ainda representa a FURIA?"
+      ],
+      "responses": [
+        "Sim! KSCERATO é um dos pilares da FURIA e renovou até 2027.",
+        "Ele continua firme no time! Um dos jogadores mais consistentes da FURIA.",
+        "Com certeza! KSCERATO segue representando a FURIA no mais alto nível."
+      ]
+    },
+    {
+      "tag": "chelo",
+      "patterns": [
+        "O chelo está na FURIA?", "chelo é jogador da FURIA?", "chelo faz parte do elenco?", "chelo entrou no time?",
+        "chelo continua na FURIA?", "Ele tá jogando pela FURIA?", "chelo ainda é da FURIA?", "chelo é player da FURIA?",
+        "chelo segue no time?", "chelo é titular da FURIA?"
+      ],
+      "responses": [
+        "Sim! chelo é um dos integrantes do time de CS2 da FURIA.",
+        "chelo atualmente representa a FURIA no CS2.",
+        "Ele faz parte do elenco principal da FURIA."
+      ]
+    },
+    {
+      "tag": "skullz",
+      "patterns": [
+        "O skullz está na FURIA?", "skullz é jogador da FURIA?", "skullz faz parte do elenco?", "skullz entrou no time?",
+        "skullz ainda tá na FURIA?", "Ele faz parte do time?", "skullz é titular da FURIA?", "skullz continua na equipe?",
+        "skullz é da line-up da FURIA?", "skullz está jogando com a FURIA?"
+      ],
+      "responses": [
+        "Sim! skullz é um dos integrantes mais recentes do time de CS2 da FURIA.",
+        "skullz atualmente veste a camisa da FURIA no CS2.",
+        "Ele faz parte da line-up principal do time."
+      ]
+    },
+    {
+      "tag": "team",
+      "patterns": [
+        "Quem joga na FURIA hoje?", "Quem tá no CS da FURIA?",
+        "Qual o time titular de CS da FURIA?",
+        "Quem são os jogadores da FURIA?",
+        "Qual a lineup atual da FURIA?",
+        "Quem está no elenco da FURIA?",
+        "Quem são os players da FURIA agora?",
+        "Quem são os titulares da FURIA?",
+        "Qual é o time atual da FURIA?",
+        "E quem tá jogando hoje?"
+      ],
+      "responses": [
+        "O time atual da FURIA no CS2 conta com FalleN, yuurih, KSCERATO, chelo e skullz.",
+        "A lineup da FURIA hoje tem FalleN, KSCERATO, yuurih, chelo e skullz — um time de peso!",
+        "Hoje, os jogadores da FURIA são: FalleN (IGL/AWPer), yuurih, KSCERATO, chelo e skullz.",
+        "A formação atual inclui FalleN como capitão, junto com yuurih, KSCERATO, chelo e skullz."
+      ]
+    }
+  ]
+}
