@@ -2,6 +2,11 @@
 
 - Este projeto é uma aplicação web desenvolvida com Flask, que utiliza NLTK e PyTorch para treinar e executar um modelo simples de chatbot. O treinamento é feito a partir de um arquivo intents.json, que define as intenções e padrões de entrada do usuário. Com base nesse treinamento, o chatbot é capaz de identificar frases e gerar respostas apropriadas em tempo real.
 
+### Para rodar aplicação inicial:
+```
+python app.py
+```
+
 ### ⚙️ Principais Tecnologias
 <table>
   <thead>
